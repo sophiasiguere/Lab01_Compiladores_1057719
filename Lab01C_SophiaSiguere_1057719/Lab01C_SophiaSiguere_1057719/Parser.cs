@@ -10,6 +10,7 @@ namespace Lab01C_SophiaSiguere_1057719
         Scanner scanner;
         Token token;
         double resultado = 0;
+        double ver = 0;
         string resul = "";
         string resulta = "";
 
@@ -70,7 +71,8 @@ namespace Lab01C_SophiaSiguere_1057719
                 case TokenType.LParen:
                 case TokenType.Numero:
                 case TokenType.Resta:
-                    return   Neg() * F() * TP();
+                    ver = Neg() * F() * TP();
+                    return   ver;
                 default:
                     return 0; 
             }
@@ -85,7 +87,7 @@ namespace Lab01C_SophiaSiguere_1057719
                     return Neg() * F() * TP(); 
                 case TokenType.Division:
                     Match(TokenType.Division);
-                    return Neg() * F() * TP(); 
+                    return Neg() * 1/F() * TP(); 
                 default:
                     return 1;
             }
@@ -98,7 +100,7 @@ namespace Lab01C_SophiaSiguere_1057719
                     Match(TokenType.LParen);
                     resultado = E();
                     Match(TokenType.RParen);
-                    return resultado + FP();
+                    return resultado;
                 case TokenType.Numero:
                     resul = token.Value.ToString();
                     Match(TokenType.Numero);

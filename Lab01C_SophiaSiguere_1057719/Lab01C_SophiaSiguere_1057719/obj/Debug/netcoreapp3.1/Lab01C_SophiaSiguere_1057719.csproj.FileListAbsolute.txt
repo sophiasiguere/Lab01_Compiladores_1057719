@@ -10,3 +10,15 @@ C:\Users\Owner-1\source\repos\Lab01C_SophiaSiguere_1057719\Lab01C_SophiaSiguere_
 C:\Users\Owner-1\source\repos\Lab01C_SophiaSiguere_1057719\Lab01C_SophiaSiguere_1057719\obj\Debug\netcoreapp3.1\Lab01C_SophiaSiguere_1057719.dll
 C:\Users\Owner-1\source\repos\Lab01C_SophiaSiguere_1057719\Lab01C_SophiaSiguere_1057719\obj\Debug\netcoreapp3.1\Lab01C_SophiaSiguere_1057719.pdb
 C:\Users\Owner-1\source\repos\Lab01C_SophiaSiguere_1057719\Lab01C_SophiaSiguere_1057719\obj\Debug\netcoreapp3.1\Lab01C_SophiaSiguere_1057719.genruntimeconfig.cache
+C:\Users\Owner-1\Source\Repos\sophiasiguere\Lab01_Compiladores_1057719\Lab01C_SophiaSiguere_1057719\Lab01C_SophiaSiguere_1057719\bin\Debug\netcoreapp3.1\Lab01C_SophiaSiguere_1057719.exe
+C:\Users\Owner-1\Source\Repos\sophiasiguere\Lab01_Compiladores_1057719\Lab01C_SophiaSiguere_1057719\Lab01C_SophiaSiguere_1057719\bin\Debug\netcoreapp3.1\Lab01C_SophiaSiguere_1057719.deps.json
+C:\Users\Owner-1\Source\Repos\sophiasiguere\Lab01_Compiladores_1057719\Lab01C_SophiaSiguere_1057719\Lab01C_SophiaSiguere_1057719\bin\Debug\netcoreapp3.1\Lab01C_SophiaSiguere_1057719.runtimeconfig.json
+C:\Users\Owner-1\Source\Repos\sophiasiguere\Lab01_Compiladores_1057719\Lab01C_SophiaSiguere_1057719\Lab01C_SophiaSiguere_1057719\bin\Debug\netcoreapp3.1\Lab01C_SophiaSiguere_1057719.runtimeconfig.dev.json
+C:\Users\Owner-1\Source\Repos\sophiasiguere\Lab01_Compiladores_1057719\Lab01C_SophiaSiguere_1057719\Lab01C_SophiaSiguere_1057719\bin\Debug\netcoreapp3.1\Lab01C_SophiaSiguere_1057719.dll
+C:\Users\Owner-1\Source\Repos\sophiasiguere\Lab01_Compiladores_1057719\Lab01C_SophiaSiguere_1057719\Lab01C_SophiaSiguere_1057719\bin\Debug\netcoreapp3.1\Lab01C_SophiaSiguere_1057719.pdb
+C:\Users\Owner-1\Source\Repos\sophiasiguere\Lab01_Compiladores_1057719\Lab01C_SophiaSiguere_1057719\Lab01C_SophiaSiguere_1057719\obj\Debug\netcoreapp3.1\Lab01C_SophiaSiguere_1057719.csprojAssemblyReference.cache
+C:\Users\Owner-1\Source\Repos\sophiasiguere\Lab01_Compiladores_1057719\Lab01C_SophiaSiguere_1057719\Lab01C_SophiaSiguere_1057719\obj\Debug\netcoreapp3.1\Lab01C_SophiaSiguere_1057719.AssemblyInfoInputs.cache
+C:\Users\Owner-1\Source\Repos\sophiasiguere\Lab01_Compiladores_1057719\Lab01C_SophiaSiguere_1057719\Lab01C_SophiaSiguere_1057719\obj\Debug\netcoreapp3.1\Lab01C_SophiaSiguere_1057719.AssemblyInfo.cs
+C:\Users\Owner-1\Source\Repos\sophiasiguere\Lab01_Compiladores_1057719\Lab01C_SophiaSiguere_1057719\Lab01C_SophiaSiguere_1057719\obj\Debug\netcoreapp3.1\Lab01C_SophiaSiguere_1057719.dll
+C:\Users\Owner-1\Source\Repos\sophiasiguere\Lab01_Compiladores_1057719\Lab01C_SophiaSiguere_1057719\Lab01C_SophiaSiguere_1057719\obj\Debug\netcoreapp3.1\Lab01C_SophiaSiguere_1057719.pdb
+C:\Users\Owner-1\Source\Repos\sophiasiguere\Lab01_Compiladores_1057719\Lab01C_SophiaSiguere_1057719\Lab01C_SophiaSiguere_1057719\obj\Debug\netcoreapp3.1\Lab01C_SophiaSiguere_1057719.genruntimeconfig.cache
