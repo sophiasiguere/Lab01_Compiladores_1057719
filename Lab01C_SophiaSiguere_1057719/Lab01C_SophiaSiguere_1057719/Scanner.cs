@@ -10,7 +10,7 @@ namespace Lab01C_SophiaSiguere_1057719
         //Llamadas consecutivas a getToken por eso se realiza global 
         private string _regexp = "";
         private int _index = 0;
-        private int _state = 0;
+        private int _state =  0;
         private const char EOF = (char)0;
      
         /*Se le agrega un caracter al final para saber que se finalizo, es el delimitador

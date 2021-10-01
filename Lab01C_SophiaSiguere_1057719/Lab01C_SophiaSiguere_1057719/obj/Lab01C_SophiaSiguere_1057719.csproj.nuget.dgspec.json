@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner-1\\source\\repos\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719.csproj": {}
+    "C:\\Users\\Owner-1\\Source\\Repos\\sophiasiguere\\Lab01_Compiladores_1057719\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner-1\\source\\repos\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719.csproj": {
+    "C:\\Users\\Owner-1\\Source\\Repos\\sophiasiguere\\Lab01_Compiladores_1057719\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner-1\\source\\repos\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719.csproj",
+        "projectUniqueName": "C:\\Users\\Owner-1\\Source\\Repos\\sophiasiguere\\Lab01_Compiladores_1057719\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719.csproj",
         "projectName": "Lab01C_SophiaSiguere_1057719",
-        "projectPath": "C:\\Users\\Owner-1\\source\\repos\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719.csproj",
+        "projectPath": "C:\\Users\\Owner-1\\Source\\Repos\\sophiasiguere\\Lab01_Compiladores_1057719\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719.csproj",
         "packagesPath": "C:\\Users\\Owner-1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner-1\\source\\repos\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719\\obj\\",
+        "outputPath": "C:\\Users\\Owner-1\\Source\\Repos\\sophiasiguere\\Lab01_Compiladores_1057719\\Lab01C_SophiaSiguere_1057719\\Lab01C_SophiaSiguere_1057719\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
