@@ -10,17 +10,8 @@ namespace Lab01C_SophiaSiguere_1057719
         Scanner scanner;
         Token token;
         double resultado = 0;
-        double ver = 0;
         string resul = "";
         string resulta = "";
-
-        int Operator(int op1, int op2, string op)
-        {
-            if (op == "*") return op1 * op2;
-            if (op == "/") return op1 / op2;
-
-            throw new ArgumentException("Specify a valid operator", "op");
-        }
 
         private double E()
         {
@@ -71,8 +62,7 @@ namespace Lab01C_SophiaSiguere_1057719
                 case TokenType.LParen:
                 case TokenType.Numero:
                 case TokenType.Resta:
-                    ver = Neg() * F() * TP();
-                    return   ver;
+                return Neg() * F() * TP();
                 default:
                     return 0; 
             }
