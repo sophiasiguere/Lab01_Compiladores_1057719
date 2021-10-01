@@ -61,9 +61,16 @@ namespace Lab01C_SophiaSiguere_1057719
                                 result.Tag = (TokenType)peek;
                                 break;
                             default:
-                                tokenFound = true;
-                                result.Tag = TokenType.Numero;
-                                result.Value = peek;
+                                if (peek == '0' || peek == '1' || peek == '2' || peek == '3' || peek == '4' || peek == '5' || peek == '6' || peek == '7' || peek == '8' || peek == '9')
+                                {
+                                    tokenFound = true;
+                                    result.Tag = TokenType.Numero;
+                                    result.Value = peek;
+                                }
+                                else 
+                                {
+                                    throw new Exception("Lex Error");
+                                }
                                 break;
                         } //Switch peek
 
